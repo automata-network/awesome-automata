@@ -1,6 +1,6 @@
 <p align="center">
   <br><br/>
-  The resource hub for all things Automata and Trusted Execution Environments (TEEs).</b>.
+  The resource hub for all things Automata and Trusted Execution Environments (TEEs).</b>
 </p>
 
 ## Products
