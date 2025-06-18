@@ -1,5 +1,6 @@
 <p align="center">
   <br><br/>
+  ![Image](https://github.com/user-attachments/assets/7d8e8213-66af-4cb3-a690-05e8e87a3337)
   The resource hub for all things Automata and Trusted Execution Environments (TEEs).</b>
 </p>
 
