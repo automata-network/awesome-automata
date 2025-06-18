@@ -31,11 +31,11 @@
 - [Automata TDX Attestation SDK](https://github.com/automata-network/tdx-attestation-sdk/?source=post_page-----71a7812a4bf9--------------------------------)
 - [Automata AMD SEV-SNP Attestation SDK](https://github.com/automata-network/amd-sev-snp-attestation-sdk)
 
-## Blog posts
+## Blog Posts
 
 All of our major updates published on our blog, sorted in descending order based on date
 
-### Product updates
+### Product Updates
 
 - [Announcing Automata’s DCAP Attestation v1.0.0: Building for rollups and AI agents](https://blog.ata.network/automatas-dcap-attestation-v1-0-0-building-for-rollups-and-ai-agents-2508221be0b8) | Apr 2025
 - [L2 Faucet on the World App](https://blog.ata.network/testnet-tokens-for-verified-humans-with-l2-faucet-on-the-world-app-a8ca57d82f95) | Jan 2025
@@ -60,6 +60,10 @@ All of our major updates published on our blog, sorted in descending order based
 - [Subagents: Decoupling thought-action for AI agents](https://x.com/AutomataNetwork/status/1887176272608174392) | Feb 2025
 - [Verifiability as the missing piece for AI agents in Web3](https://blog.ata.network/verifiability-as-the-missing-piece-for-ai-agents-in-web3-504839dca893) | Jan 2025
 - [The 5 levels of agentic trust](https://x.com/AutomataNetwork/status/1882070776297525402) | Jan 2025
+
+### Explainers
+
+- [TEE ELI5](https://eli5.ata.network/)
 
 ## Events
 
