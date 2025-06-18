@@ -29,7 +29,7 @@
 ### SDKs
 
 - [Automata SGX SDK](https://github.com/automata-network/automata-sgx-sdk)
-- [Automata TDX Attestation SDK](https://github.com/automata-network/tdx-attestation-sdk/?source=post_page-----71a7812a4bf9--------------------------------)
+- [Automata TDX Attestation SDK](https://github.com/automata-network/tdx-attestation-sdk)
 - [Automata AMD SEV-SNP Attestation SDK](https://github.com/automata-network/amd-sev-snp-attestation-sdk)
 
 ## Blog Posts
@@ -77,7 +77,7 @@ Recordings of the events we’ve attended
 - [TEE Preconfers: Why, How, & What's Next](https://www.youtube.com/watch?v=qwhMD_wAwJc) | Rollup and Prove It | Feb 2025
 - [Verifiable Machines as Trust Anchors for AI](https://www.youtube.com/watch?v=kNvCWH1Bx6I) | Async House | Feb 2025
 - [Agents Have Bodies with Attestations in a Post-AI World](https://www.youtube.com/watch?v=lBD3z57dUOk) | Async House | Feb 2025
-- [Using zkDCAP for TEE attestation with SGX and TDX](https://www.notion.so/Awesome-Automata-Draft-1-17d10e97025a80dbad27dd4800f75dfc?pvs=21) | @ ETHKL | Nov 2024
+- [Using zkDCAP for TEE attestation with SGX and TDX](https://www.youtube.com/watch?v=EsQ3m6map_M) | @ ETHKL | Nov 2024
 - [TEEs and Blockchains are Better Together](https://www.youtube.com/watch?v=p0jHW5zSE3s) | AggLayer Summit @ Devcon | Nov 2024
 - [Advancing Rollups to Stage 2 with Multi-Prover AVS](https://youtu.be/j2flKQr6UI8?si=i2FLHYQBVO-wCLD0&t=2484) | AVS Day @ Devcon | Nov 2024
 - [Automata Trusted Execution Environment (TEE) based Verifiable RNG](https://www.youtube.com/watch?v=jKnO27ILD8c&list=PLsg1px0GrGghiIRoLiPKufzwTsDQvOMUF&index=2) | Threshold Summit @ Devcon | Nov 2024
