@@ -72,7 +72,8 @@ Recordings of the events we’ve attended
 
 ### Talks/Keynotes
 
-- [The path to verifiable autonomy for AI agents](https://www.youtube.com/watch?v=fP5Rd_nb3uQ) | EthTaipei 2025 | April 2025
+- [Ethereum’s future hinges on TEEs](https://www.youtube.com/watch?v=5f58L1iPquI) | EthCC 2025 | Jul 2025
+- [The path to verifiable autonomy for AI agents](https://www.youtube.com/watch?v=fP5Rd_nb3uQ) | EthTaipei 2025 | Apr 2025
 - [Taking Ethereum Back to First Principles: tee/acc in 2025](https://www.youtube.com/watch?v=flABgpT6Bsw) | ETHDenver | Feb 2025
 - [TEE Preconfers: Why, How, & What's Next](https://www.youtube.com/watch?v=qwhMD_wAwJc) | Rollup and Prove It | Feb 2025
 - [Verifiable Machines as Trust Anchors for AI](https://www.youtube.com/watch?v=kNvCWH1Bx6I) | Async House | Feb 2025
@@ -82,7 +83,7 @@ Recordings of the events we’ve attended
 - [Advancing Rollups to Stage 2 with Multi-Prover AVS](https://youtu.be/j2flKQr6UI8?si=i2FLHYQBVO-wCLD0&t=2484) | AVS Day @ Devcon | Nov 2024
 - [Automata Trusted Execution Environment (TEE) based Verifiable RNG](https://www.youtube.com/watch?v=jKnO27ILD8c&list=PLsg1px0GrGghiIRoLiPKufzwTsDQvOMUF&index=2) | Threshold Summit @ Devcon | Nov 2024
 - [Machine trust as the building block for Web3](https://www.youtube.com/watch?v=xLUeZWeNCIo)  | TEE Unconference @ Token2049 | Oct 2024
-- [Enhancing ZK-Rollup Security with TEEs](https://www.youtube.com/watch?v=O1S5DdcuuYQ) | RISC Zero @ EthCC | July 2024
+- [Enhancing ZK-Rollup Security with TEEs](https://www.youtube.com/watch?v=O1S5DdcuuYQ) | RISC Zero @ EthCC | Jul 2024
 
 ### Panels
 
@@ -100,11 +101,11 @@ Recordings of the events we’ve attended
 - [AVS Panel](https://www.youtube.com/watch?v=6cgi03lvi-0&t=20s) | Rollup Day @Token2049 | Oct 2024
 - [Digital Asset Debate: Busting myths](https://www.youtube.com/watch?v=TscnP6L-pfM&list=PLUVZ-xc5r7-y763hNMLwjTn4-VEg6mrV_&index=8) | DeCompute @ Token2049 | Oct 2024
 - [Building Web3 Responsibly](https://www.youtube.com/watch?v=v5AqhNRIzkY) | DeCC Day @ Token 2049 | Sep 2024
-- [MPC vs. FHE vs. TEE](https://www.youtube.com/watch?v=LBipsEYVhmc) | EDCON2024 | July 2024
-- [Managing AVS Risks: Restake Stability & Implications of Pooled Security](https://www.youtube.com/watch?v=pm6kKEnDj_4) | Restaking Day @ EthCC | July 2024
-- [Unlocking Scalability, One Piece at a Time](https://www.youtube.com/watch?v=MpD8WaCmj7s) | Chain Abstraction Day @ EthCC | July 2024
-- [Enhancing Interoperability & Security with Restaking](https://www.youtube.com/watch?v=MpD8WaCmj7s) | Restaking & Infra Day @ EthCC | July 2024
-- [Modular Blockchains Advantages and Limitations](https://www.youtube.com/watch?v=J6zsaJ2NQgc) | L2con Brussels @ EthCC | July 2024
+- [MPC vs. FHE vs. TEE](https://www.youtube.com/watch?v=LBipsEYVhmc) | EDCON2024 | Jul 2024
+- [Managing AVS Risks: Restake Stability & Implications of Pooled Security](https://www.youtube.com/watch?v=pm6kKEnDj_4) | Restaking Day @ EthCC | Jul 2024
+- [Unlocking Scalability, One Piece at a Time](https://www.youtube.com/watch?v=MpD8WaCmj7s) | Chain Abstraction Day @ EthCC | Jul 2024
+- [Enhancing Interoperability & Security with Restaking](https://www.youtube.com/watch?v=MpD8WaCmj7s) | Restaking & Infra Day @ EthCC | Jul 2024
+- [Modular Blockchains Advantages and Limitations](https://www.youtube.com/watch?v=J6zsaJ2NQgc) | L2con Brussels @ EthCC | Jul 2024
 
 ### Self-Hosted Events
 
