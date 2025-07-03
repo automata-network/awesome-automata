@@ -62,10 +62,6 @@ All of our major updates published on our blog, sorted in descending order based
 - [Verifiability as the missing piece for AI agents in Web3](https://blog.ata.network/verifiability-as-the-missing-piece-for-ai-agents-in-web3-504839dca893) | Jan 2025
 - [The 5 levels of agentic trust](https://x.com/AutomataNetwork/status/1882070776297525402) | Jan 2025
 
-### Explainers
-
-- [TEE ELI5](https://eli5.ata.network/)
-
 ## Events
 
 Recordings of the events we’ve attended
@@ -122,3 +118,7 @@ Recordings of the events we’ve attended
 ### Demos
 
 - [elizaOS Plugin Tutorial: 1RPC (Automata)](https://www.youtube.com/watch?v=4eqAeRyAeXc) | ElizaOS Demo Day | Mar 2025
+
+## Other Resources
+- [TEE ELI5](https://eli5.ata.network/)
+- [TEE Wiki](https://tee.fyi/)
