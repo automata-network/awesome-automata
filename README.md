@@ -122,3 +122,4 @@ Recordings of the events we’ve attended
 ## Other Resources
 - [TEE ELI5](https://eli5.ata.network/)
 - [TEE Wiki](https://tee.fyi/)
+- [Automata Knowledge Base](https://learn.ata.network/)
