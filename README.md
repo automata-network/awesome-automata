@@ -83,7 +83,7 @@ Recordings of the events we’ve attended
 
 ### Panels
 
-- [Is Privacy Without Tradeoffs a Myth?](https://x.com/i/broadcasts/1LyxBWaLNrYKN) (42:11-1:13:12) | Afternoon Tee Party @ EthCC Cannes | Jul 2025
+- [Is Privacy Without Tradeoffs a Myth?](https://www.youtube.com/live/oQWGn0vjddc?si=1TfrVDIq1Uerfdb7&t=2518) | Afternoon Tee Party @ EthCC Cannes | Jul 2025
 - [Applications of ZK](https://www.youtube.com/watch?v=mhBDy20XILc&list=PLKquVQ64ui2Sa7ptDgUwfvg9GMt2r6kA3&index=7) | The Boundless House of ZK @ Web3 Festival Hong Kong | Apr 2025
 - [Product Market Fit](https://www.youtube.com/watch?v=J5LWDFC6Mk4) | Web3 Festival Hong Kong | Apr 2025
 - [Every dApp is a ZK dApp: Redefining Scalability and UX for Mass Adoption](https://www.youtube.com/watch?v=QRxnMdeQ8nM) | ZK Connect @ Web3 Festival Hong Kong | Apr 2025
