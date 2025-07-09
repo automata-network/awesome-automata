@@ -83,6 +83,7 @@ Recordings of the events we’ve attended
 
 ### Panels
 
+- [Prove It: Verifiability, Privacy, and the New Trust Layer of Web3](https://www.youtube.com/watch?v=A3b_VlirlSE) | (Re)fundamentals @ EthCC Cannes | Jul 2025
 - [Is Privacy Without Tradeoffs a Myth?](https://www.youtube.com/live/oQWGn0vjddc?si=1TfrVDIq1Uerfdb7&t=2518) | Afternoon Tee Party @ EthCC Cannes | Jul 2025
 - [Applications of ZK](https://www.youtube.com/watch?v=mhBDy20XILc&list=PLKquVQ64ui2Sa7ptDgUwfvg9GMt2r6kA3&index=7) | The Boundless House of ZK @ Web3 Festival Hong Kong | Apr 2025
 - [Product Market Fit](https://www.youtube.com/watch?v=J5LWDFC6Mk4) | Web3 Festival Hong Kong | Apr 2025
