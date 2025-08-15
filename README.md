@@ -74,10 +74,11 @@ Recordings of the events we’ve attended
 - [TEE Preconfers: Why, How, & What's Next](https://www.youtube.com/watch?v=qwhMD_wAwJc) | Rollup and Prove It | Feb 2025
 - [Verifiable Machines as Trust Anchors for AI](https://www.youtube.com/watch?v=kNvCWH1Bx6I) | Async House | Feb 2025
 - [Agents Have Bodies with Attestations in a Post-AI World](https://www.youtube.com/watch?v=lBD3z57dUOk) | Async House | Feb 2025
-- [Using zkDCAP for TEE attestation with SGX and TDX](https://www.youtube.com/watch?v=EsQ3m6map_M) | @ ETHKL | Nov 2024
+- [Old TEE Tales A not so in depth exploration of TEE platforms and its designs](https://www.youtube.com/watch?v=-uTmlsBg3oY&list=PLRHMe0bxkuekLrwd7LQZJHWrx2r6k3mGX&index=16) | TEE Salon @ Devcon | Nov 2024
 - [TEEs and Blockchains are Better Together](https://www.youtube.com/watch?v=p0jHW5zSE3s) | AggLayer Summit @ Devcon | Nov 2024
 - [Advancing Rollups to Stage 2 with Multi-Prover AVS](https://youtu.be/j2flKQr6UI8?si=i2FLHYQBVO-wCLD0&t=2484) | AVS Day @ Devcon | Nov 2024
 - [Automata Trusted Execution Environment (TEE) based Verifiable RNG](https://www.youtube.com/watch?v=jKnO27ILD8c&list=PLsg1px0GrGghiIRoLiPKufzwTsDQvOMUF&index=2) | Threshold Summit @ Devcon | Nov 2024
+- [Using zkDCAP for TEE attestation with SGX and TDX](https://www.youtube.com/watch?v=EsQ3m6map_M) | @ ETHKL | Oct 2024
 - [Machine trust as the building block for Web3](https://www.youtube.com/watch?v=xLUeZWeNCIo)  | TEE Unconference @ Token2049 | Oct 2024
 - [Enhancing ZK-Rollup Security with TEEs](https://www.youtube.com/watch?v=O1S5DdcuuYQ) | RISC Zero @ EthCC | Jul 2024
 
@@ -95,7 +96,6 @@ Recordings of the events we’ve attended
 - [TEE vs ZK vs Cryptoeconomic Coprocessors](https://youtu.be/oSM0KliU6vM?si=4i6fmxmAm3m4COFa&t=1505) | AVS Day @ Devcon | Nov 2024
 - [Comparing Privacy-Enhancing Technologies](https://www.youtube.com/watch?v=n33NtDpIkU8&t=23s) | FHE Summit @ Devcon | Nov 2024
 - [ZK Beyond Rollups](https://www.youtube.com/watch?v=qOUJfMG0C3E) | ZK Connect @ Devcon | Nov 2024
-- [Old TEE Tales A not so in depth exploration of TEE platforms and its designs](https://www.youtube.com/watch?v=-uTmlsBg3oY&list=PLRHMe0bxkuekLrwd7LQZJHWrx2r6k3mGX&index=16) | TEE Salon @ Devcon | Nov 2024
 - [ZK FHE MPC Panel](https://www.youtube.com/watch?v=zf3o88tg-08) | Encryption Day @ Devcon | Nov 2024
 - [AVS Panel](https://www.youtube.com/watch?v=6cgi03lvi-0&t=20s) | Rollup Day @Token2049 | Oct 2024
 - [Digital Asset Debate: Busting myths](https://www.youtube.com/watch?v=TscnP6L-pfM&list=PLUVZ-xc5r7-y763hNMLwjTn4-VEg6mrV_&index=8) | DeCompute @ Token2049 | Oct 2024
