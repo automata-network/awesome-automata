@@ -81,6 +81,8 @@ Recordings of the events we’ve attended
 - [Using zkDCAP for TEE attestation with SGX and TDX](https://www.youtube.com/watch?v=EsQ3m6map_M) | @ ETHKL | Oct 2024
 - [Machine trust as the building block for Web3](https://www.youtube.com/watch?v=xLUeZWeNCIo)  | TEE Unconference @ Token2049 | Oct 2024
 - [Enhancing ZK-Rollup Security with TEEs](https://www.youtube.com/watch?v=O1S5DdcuuYQ) | RISC Zero @ EthCC | Jul 2024
+- [Unpacking the Debate: Trusted Execution Environments (TEEs) in Web3](https://www.youtube.com/watch?v=Ce78eUfoQdU) | Nov 2023
+- [Exploring the Secret World of Trusted Execution Environments](https://www.youtube.com/watch?v=XJWkdKvQmD4) | Nov 2023
 
 ### Panels
 
