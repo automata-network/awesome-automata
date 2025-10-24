@@ -61,6 +61,7 @@ All of our major updates published on our blog, sorted in descending order based
 - [Subagents: Decoupling thought-action for AI agents](https://x.com/AutomataNetwork/status/1887176272608174392) | Feb 2025
 - [Verifiability as the missing piece for AI agents in Web3](https://blog.ata.network/verifiability-as-the-missing-piece-for-ai-agents-in-web3-504839dca893) | Jan 2025
 - [The 5 levels of agentic trust](https://x.com/AutomataNetwork/status/1882070776297525402) | Jan 2025
+- [Creating Attestable Builds with AWS Nitro Enclaves](https://builder.aws.com/content/2lZdD8iDfAGbQpWK8g8fGvQ1kp8/creating-attestable-builds-with-aws-nitro-enclaves) | Sep 2024
 
 ## Events
 
