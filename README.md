@@ -6,12 +6,12 @@
 
 ## Products
 
+- [DCAP Dashboard](https://dcap.ata.network/)
 - [1RPC.io](https://www.1rpc.io/) (Web3 Relay)
 - [1RPC.ai](http://1RPC.ai) (LLM Relay)
 - [L2 Faucet](https://www.l2faucet.com/)
 - [Proof of Machinehood (PoM) app (Beta)](https://pom.ata.network/)
 - [Sepolia Faucet](https://www.sepoliafaucet.io/)
-- [Holesky Faucet](https://www.holeskyfaucet.io/)
 - [Hoodi Faucet](https://www.hoodifaucet.io/)
 
 ## Solutions
@@ -31,6 +31,7 @@
 - [Automata SGX SDK](https://github.com/automata-network/automata-sgx-sdk)
 - [Automata TDX Attestation SDK](https://github.com/automata-network/tdx-attestation-sdk)
 - [Automata AMD SEV-SNP Attestation SDK](https://github.com/automata-network/amd-sev-snp-attestation-sdk)
+- [AWS Nitro Enclave Attestation SDK](https://github.com/automata-network/aws-nitro-enclave-attestation)
 
 ## Blog Posts
 
@@ -56,6 +57,7 @@ All of our major updates published on our blog, sorted in descending order based
 
 ### Thought Pieces
 
+- [On verifiable TEEs and ERC-8004: Hardware-attested agents ](https://x.com/AutomataNetwork/status/1981360263199658095) | Oct 2025
 - [Building Loyal AI Agents with TEEs](https://x.com/1rpc_/status/1925950913505546311) | May 2025
 - [AI sees everything, unless we use Ethereum differently](https://x.com/1rpc_/status/1920490451054047523) | May 2025
 - [Subagents: Decoupling thought-action for AI agents](https://x.com/AutomataNetwork/status/1887176272608174392) | Feb 2025
@@ -69,6 +71,7 @@ Recordings of the events we’ve attended
 
 ### Talks/Keynotes
 
+- [Trustless Agents, Verified Execution](https://www.youtube.com/watch?v=WeFjwUPfZ8s) | Token2049 2025 | Oct 2025
 - [Ethereum’s future hinges on TEEs](https://www.youtube.com/watch?v=5f58L1iPquI) | EthCC 2025 | Jul 2025
 - [The path to verifiable autonomy for AI agents](https://www.youtube.com/watch?v=fP5Rd_nb3uQ) | EthTaipei 2025 | Apr 2025
 - [Taking Ethereum Back to First Principles: tee/acc in 2025](https://www.youtube.com/watch?v=flABgpT6Bsw) | ETHDenver | Feb 2025
