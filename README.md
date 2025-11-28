@@ -71,6 +71,7 @@ Recordings of the events we’ve attended
 
 ### Talks/Keynotes
 
+- [Frontier Forum Lightning Talk: Yaoxin Jing, Automata](https://www.youtube.com/watch?v=0aAHebSInQk) | Devconnect 2025 | Nov 2025
 - [Trustless Agents, Verified Execution](https://www.youtube.com/watch?v=WeFjwUPfZ8s) | Token2049 2025 | Oct 2025
 - [Ethereum’s future hinges on TEEs](https://www.youtube.com/watch?v=5f58L1iPquI) | EthCC 2025 | Jul 2025
 - [The path to verifiable autonomy for AI agents](https://www.youtube.com/watch?v=fP5Rd_nb3uQ) | EthTaipei 2025 | Apr 2025
