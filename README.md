@@ -39,6 +39,7 @@ All of our major updates published on our blog, sorted in descending order based
 
 ### Product Updates
 
+- [Automata’s release of DCAP Attestation v1.1 for agentic systems](https://blog.ata.network/automatas-release-of-dcap-attestation-v1-1-for-agentic-systems-84ae98900370) | Nov 2025
 - [Announcing Automata’s DCAP Attestation v1.0.0: Building for rollups and AI agents](https://blog.ata.network/automatas-dcap-attestation-v1-0-0-building-for-rollups-and-ai-agents-2508221be0b8) | Apr 2025
 - [L2 Faucet on the World App](https://blog.ata.network/testnet-tokens-for-verified-humans-with-l2-faucet-on-the-world-app-a8ca57d82f95) | Jan 2025
 - [Introducing Succinct SP1 to the DCAP attestation suite for Intel SGX and TDX](https://blog.ata.network/towards-a-common-tee-stack-71a7812a4bf9) | Nov 2024
